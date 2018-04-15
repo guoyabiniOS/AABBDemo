@@ -1,0 +1,22 @@
+{
+  "name": "MyCocoaPodLib",
+  "version": "0.1.0",
+  "summary": "A short description of MyCocoaPodLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/264798213@qq.com/MyCocoaPodLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "264798213@qq.com": "guoyabin@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/264798213@qq.com/MyCocoaPodLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyCocoaPodLib/Classes/**/*"
+}

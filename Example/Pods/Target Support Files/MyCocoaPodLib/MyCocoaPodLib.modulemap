@@ -1,0 +1,6 @@
+framework module MyCocoaPodLib {
+  umbrella header "MyCocoaPodLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
