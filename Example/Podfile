@@ -1,7 +1,7 @@
 use_frameworks!
 
 target 'MyCocoaPodLib_Example' do
-  pod 'MyCocoaPodLib', :path => '../'
+  pod 'MyCocoaPodLib', :podspec => '../MyCocoaPodLib.podspec'
 
   target 'MyCocoaPodLib_Tests' do
     inherit! :search_paths
